@@ -1,3 +1,4 @@
+REM 这里设置protoc.exe文件路径、grpc插件路径、proto文件路径
 @set PROTOC=E:\download\soft\protoc-3.14.0-win64\bin\protoc.exe
 @set PROTOC_GRPC_PLUGIN=E:\download\soft\protoc-3.14.0-win64\bin\protoc-gen-grpc-java-1.9.1-windows-x86_64.exe
 @set PROTO_FILES_DIR=F:\devel\work\tbds\alluxio\core\transport\src\main\proto
